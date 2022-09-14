@@ -1,2 +1,2 @@
 # CtExpiWeb-1
-Application which gives an ideas of expenses for relocating cost for particular city. Showing maximum and minimum renting cost in particular city by area-wise.
+An application that gives an idea of expenses for relocating costs for a particular city. Showing maximum and minimum renting cost in a particular city by area-wise.
